@@ -69,3 +69,5 @@ console.log(Object.entries (user07))
 console.log(Object.entries (user08))
 console.log(Object.entries (user09))
 
+export default user01
+

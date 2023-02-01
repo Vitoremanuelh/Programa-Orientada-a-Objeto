@@ -15,3 +15,19 @@
 - Herança 
 - Frameworks 
 - Método construtor: construtor 
+
+## Export e Import 
+- São recursos do EcmaScript Modules 
+
+## TypeScript 
+- boolean 
+- string ("Texto", 'exemplo')
+- arrays
+- tuple
+
+## Framework
+- React  
+- Vue.js
+- Angular
+
+
